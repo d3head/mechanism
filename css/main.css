@@ -1,0 +1,24 @@
+.blocks {
+    height: 200px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.blocks p {
+    font-size: 16px;
+}
+
+.block {
+    width: 150px;
+    height: 150px;
+    background: #ddd;
+    margin-right: 20px;
+    float: left;
+    cursor: pointer
+}
+
+#page-frame {
+    width: 100%;
+    height: 600px;
+    border-top: 1px solid #ddd;
+}
